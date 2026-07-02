@@ -20,7 +20,7 @@ public class Main {
 		System.out.println(p.sayHello("1234567890"));
 		p=new Student();//runtime
 		System.out.println(p);
-		System.out.println(p.sayHello("909090909090"));
+		System.out.println(p.sayHello("909090909090"));//dynamic binding
 		p=new EmployeeClass();
 		System.out.println(p);
 		
