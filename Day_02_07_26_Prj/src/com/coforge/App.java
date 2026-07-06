@@ -10,7 +10,7 @@ public class App {
 		System.out.println(e1.getEid());
 		System.out.println(e1);//toString()
 		
-		Employee e2=new Employee("swapna", 123, 50000);
+		Employee e2=new Employee("shweta", 123, 50000);
 		System.out.println(e2);
 		
 		Employee e3=new Employee();
