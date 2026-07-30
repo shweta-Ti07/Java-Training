@@ -1,0 +1,15 @@
+{
+  "employees": [
+    {
+      "id": "103",
+      "name": "Spoorthy",
+      "desg": "Developer"
+    },
+    {
+      "id": "yzkW-NXAvtQ",
+      "name": "Swapna",
+      "desg": "Trainer"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
